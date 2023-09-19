@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Christine-Ann-U-Rosa
 - 👀 I’m interested in programming
-- having skills of visual basic, MySQL, c++, phyton
+- having skills of visual basic, MySQL, c++, phyton, JavaScript 
 - 🌱 I’m currently learning GitHub 
 - 📫 21-37597@g.batstate-u.edu.ph
 
